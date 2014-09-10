@@ -1,0 +1,33 @@
+{
+  "name": "fluentd_bundle",
+  "description": "Installs/Configures fluentd by bundler",
+  "long_description": "Installs/Configures fluentd by bundler",
+  "maintainer": "HiganWorks LLC.",
+  "maintainer_email": "sawanoboriyu@higanworks.com",
+  "license": "Apache 2.0",
+  "platforms": {
+    "ubuntu": ">= 0.0.0",
+    "smartos": ">= 0.0.0"
+  },
+  "dependencies": {
+    "rbenv": ">= 0.0.0",
+    "build-essential": ">= 0.0.0"
+  },
+  "recommendations": {
+  },
+  "suggestions": {
+  },
+  "conflicting": {
+  },
+  "providing": {
+  },
+  "replacing": {
+  },
+  "attributes": {
+  },
+  "groupings": {
+  },
+  "recipes": {
+  },
+  "version": "0.2.0"
+}
